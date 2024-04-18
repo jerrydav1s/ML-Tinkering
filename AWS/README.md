@@ -1,4 +1,4 @@
-```markdown
+
 # Deploying a Hugging Face Model to Amazon SageMaker
 
 This tutorial will guide you through the process of deploying a Hugging Face model to Amazon SageMaker. By following these steps, you'll be able to host your model on a scalable and reliable platform.
@@ -64,4 +64,3 @@ Congratulations! You have successfully deployed a Hugging Face model to Amazon S
 If you have any questions or encounter any issues, please refer to the documentation or reach out to the respective support channels for assistance.
 
 Happy deploying and have fun!
-```
