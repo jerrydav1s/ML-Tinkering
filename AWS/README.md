@@ -36,7 +36,7 @@ Enter the access key created earlier and specify your AWS region when prompted.
 5. Modify the role name in the code to match the IAM role you created earlier:
 
 ```python
-role = iam.get_role(RoleName='PythonSDK')['Role']['Arn']
+role = iam.get_role(RoleName='PytYOUR_ROLE_NAME_HERE')['Role']['Arn']
 ```
 
 6. Save the file as `sagemaker_deploy.py`.
